@@ -1,17 +1,14 @@
 # Site settings
-title: _________________________________________
+title: Ansh Sarda
 description:
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: "ysarda.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ansh Sarda
-user_description_theory:  Something.
 user_description_applied:  Something else.
 user_title: excuse the mess, it's a work in progress
-email: ysarda9@gmail.com
-twitter_username: xysarda
-github_username:  ysarda
+email: anshsarda@outlook.com
 #gplus_username:  lorem_ipsum
 
 
